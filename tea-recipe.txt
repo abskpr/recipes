@@ -1,0 +1,23 @@
+To make a cup of tea in Indian Style.
+
+	Ingredients:
+		
+		-- 1 cup milk (non-fat)
+		-- 1/4 cup water
+		-- 1 tsp tea leaves(dried)
+		-- 1 tsp sugar
+		-- 1/4 tsp ginger(grate)
+		
+	Instructions:
+		
+		1) Take a sauce-pan and put it on the burner.
+		2) Put the milk and water in the specified amount in sauce-pan.
+		3) Add tea leaves, sugar and ginger in it.
+		4) Let it boil twice and verify that its color is light crimson (In case of normal Indian Tea).
+		5) Filter the tea leaves using seives.
+		
+	 Additional Instructions:
+	 
+		1) Serve it while it's hot.
+		2) Consume it within an hour after making it and reheat it if necessary.
+	
